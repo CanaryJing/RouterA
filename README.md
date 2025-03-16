@@ -1,2 +1,3 @@
 # RouterA
 一个在服务器上对openwrt进行重播以获取公网IP地址的linux脚本
+需要安装sshpass
